@@ -18,9 +18,15 @@ Your API response should have the following fields:
 		- total_number_of_comments
 
 
-2. Search API 
+Response screenshot:
+![This is an image](./result-img/top-post-response.png)
+
+1. Search API 
 Create an endpoint that allows a user to filter the comments based on all the available fields. Your solution needs to be scalable. 
 	- comments endpoint – https://jsonplaceholder.typicode.com/comments
+
+Response screenshot:
+![This is an image](./result-img/comments-search-response.png)
 
 ## Notes
 
